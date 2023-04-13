@@ -2,8 +2,8 @@
 
 > Notion AnyURL
 
-## 注意点
-- productionブランチは各プロジェクトで作ること
+### ドライブURL
+> https://drive.google.com/drive/u/0/folders/1VfK6WryI33ATPpNcJmesgdwSxY_XL4MW
 
 ## 開発環境
 
